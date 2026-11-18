@@ -33,7 +33,7 @@ The project combines systematic literature review, data analysis, and mathematic
 
 ## Work Plan (2 Years / 4 Semesters)
 
-### Semester 1 (Fall 2026 - Spring 2027)
+### Semester 1 
 **Literature Review and Data Collection**
 
 - [ ] Conduct systematic literature review across 6 databases (Scopus, Web of Science, PsycINFO, and others)
@@ -41,7 +41,7 @@ The project combines systematic literature review, data analysis, and mathematic
 - [ ] Collect and analyze existing datasets on wearable device usage and mental health metrics
 - [ ] Identify key interaction patterns and physiological indicators
 - [ ] Prepare initial literature review report
-- [ ] Present findings at department seminar
+
 
 **Deliverables:**
 - Systematic literature review document
@@ -50,7 +50,7 @@ The project combines systematic literature review, data analysis, and mathematic
 
 ---
 
-### Semester 2 (Fall 2027 - Spring 2028)
+### Semester 2 
 **Methodology Development and Model Design**
 
 - [ ] Analyze collected data and identify relevant features for mental health assessment
@@ -68,7 +68,7 @@ The project combines systematic literature review, data analysis, and mathematic
 
 ---
 
-### Semester 3 (Fall 2028 - Spring 2029)
+### Semester 3 
 **Implementation and Validation**
 
 - [ ] Implement final versions of mathematical models
@@ -86,7 +86,7 @@ The project combines systematic literature review, data analysis, and mathematic
 
 ---
 
-### Semester 4 (Fall 2029 - Spring 2030)
+### Semester 4 
 **Final Evaluation and Thesis Preparation**
 
 - [ ] Finalize all models and documentation
