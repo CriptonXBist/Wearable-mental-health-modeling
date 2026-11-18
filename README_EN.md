@@ -1,9 +1,13 @@
+[🇷🇺 Русская версия](README_RU.md)
+
+---
+
 # Mathematical Modeling of Human Interaction with Wearable Devices for Mental Health Assessment
 
 ## Student Information
 
-**Student:** Pavel [Your Last Name]  
-**Supervisor:** Sergey Valeryevich [Last Name]  
+**Student:** Pavel Matveev  
+**Supervisor:** Sergey Kovalchuk  
 **Program:** МиКМ-2026 (Mathematical Modeling and Computer Science)  
 **Repository Created:** November 2026
 
@@ -123,9 +127,8 @@ The project combines systematic literature review, data analysis, and mathematic
 
 ## Contact
 
-For questions or collaboration opportunities, please contact:
-- **Student:** [Your Email]
-- **Supervisor:** [Supervisor Email]
+- **Student:** [matveev2301@mail.ru]
+
 
 ---
 
